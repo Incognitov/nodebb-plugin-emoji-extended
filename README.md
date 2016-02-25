@@ -1,5 +1,9 @@
 # nodebb-plugin-emoji-extended
 
+**This repository is outdated. `nodebb-plugin-emoji-extended` has been written again from scratch. Please use [NodeBB-Community/nodebb-plugin-emoji-extended](https://github.com/NodeBB-Community/nodebb-plugin-emoji-extended) instead.**
+
+**This repository might get deleted soon.**
+
 ## Features
 
  + Emoticons as defined at [Emoji cheat sheet](http://www.emoji-cheat-sheet.com)
