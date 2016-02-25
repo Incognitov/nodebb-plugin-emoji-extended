@@ -59,9 +59,9 @@
               <input type="checkbox" data-key="fileSystemAccess" title="Emoji Cheat Sheet Images"><br />
               <small>
                 Note: The Feature of custom images isn't implemented (yet).<br />
-                By disabling above checkbox you ensure no automatic changes within the
+                By disabling the above checkbox you ensure no automatic changes within the
                 <i>node_modules/nodebb-plugin-emoji-extended/emoji/</i> directory.
-                Therefor you may change the images located there and the !index.list file in order to setup your own
+                Therefore you may change the images located there and the !index.list file in order to setup your own
                 images.<br />
                 This will disable the categorization of emoji within the composer-dialog.</br >
                 Take care not to update this plugin afterwards without a backup.
